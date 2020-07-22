@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Thai_Simey_final_Exam</string>
+
+    <!-- Menu -->
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="search">Search</string>
+    <string name="account">Account</string>
+
+    <string name="homefrg">This is a Home Fragment</string>
+    <string name="categoriesfrg">This is a Categories Fragment</string>
+    <string name="searchfrg">This is a Search Fragment</string>
+    <string name="accountfrg">This is an Account Fragment</string>
+</resources>
